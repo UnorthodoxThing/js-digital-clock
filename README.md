@@ -9,7 +9,11 @@ A simple digital clock that display the current time in hours, minutes and secon
 * Display months by word.
 * Display year by integer.
 
+![preview-js-digital-clock](https://user-images.githubusercontent.com/24542308/51438004-731a0e80-1cfa-11e9-864b-76448d8826ed.png)
+
 ## Licenses and Copywrites
+
+CreativeCommons License - [Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)
 
 ## Credits
 
