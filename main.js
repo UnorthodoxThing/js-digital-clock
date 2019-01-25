@@ -1,13 +1,3 @@
-
-// TODO:
-// Add ante Merdiem Feature
-// Octopus/ Controller Model and View system
-// test trial new Date()
-// TEST:
-// new Date() input dateDay = 1
-// new Date()
-// new Date()
-
 function clockWork() {
   // Get current time
   let date = new Date();
